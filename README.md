@@ -1,16 +1,7 @@
-# stt_sample
+# 音声入力のサンプルプロジェクト
 
-A new Flutter project.
+https://user-images.githubusercontent.com/91307335/170873947-ce07e6cd-ff4b-4e1d-bc63-40a86d9c2eeb.MP4
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Lottie animation
+©︎ Timir Deb Nath
+https://lottiefiles.com/timir69
